@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-* After you have downloaded the code in the form oz a zip file or directly using the git command, cd into the 'python' folder in your IDE.
+* After you have downloaded the code in the form of a zip file or directly using the git command, cd into the 'python' folder in your IDE.
 * Make sure that you have python and flask installed on your pc and where you have downloaded these files.
 * In order to start the application, type the command 'python app.py' or 'python3 app.py' in your IDE's terminal based on how you have installed python in your system.
 * You will be able to see a url in your IDE after you enter the above command. It will be something on the lines of 'http://127.0.0.1:5000/'. This points to your localhost.
