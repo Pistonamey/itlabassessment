@@ -7,3 +7,6 @@
   - findMin
   - sortList
   - removeDuplicates
+* Your task is to create a Java application from scratch, implement the ListProcessor class, and complete all the above functions. More details about the functions are in the comments of the java.txt file.
+* Test your application with 3 test cases for every function. 
+* Happy coding.
