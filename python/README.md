@@ -15,3 +15,6 @@
 * You will be able to see a url in your IDE after you enter the above command. It will be something on the lines of 'http://127.0.0.1:5000/'. This points to your localhost.
 * You should see the following page after you open the url:
 ![Screenshot (1700)](https://user-images.githubusercontent.com/83175234/221328870-b368f5bb-31bc-4058-8d9c-20d4b1c9f59d.png)
+* In the url type '/students' in front. the entire url should look somthing like this: 'http://127.0.0.1:5000/students'.
+* You should see the following page with '/students':
+![Screenshot (1701)](https://user-images.githubusercontent.com/83175234/221328952-5ab7100f-67af-4f7b-be5a-7d1c91fe7c71.png)
