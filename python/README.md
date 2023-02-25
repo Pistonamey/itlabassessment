@@ -37,6 +37,6 @@
 
 ![Screenshot (1702)](https://user-images.githubusercontent.com/83175234/221329450-a2f6bb7d-aa17-4576-b0d9-7c4cded3c2bb.png)
 
-* ### Please note that the format of your data should be exactly in the format depicted in the picture above. Points will be deducted if it is any other format. The format is: "Term" , then "Student [Course List]". 
+### Please note that the format of your data on the students page should be exactly in the format depicted in the picture above. Points will be deducted if it is any other format. The format is: "Term" , then "Student [Course List]". 
 
 
