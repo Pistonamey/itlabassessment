@@ -15,4 +15,4 @@
 
   Your code will be evaluated based on correctness, efficiency, readability, and adherence to best practices.
 
-  Read the read.me files in both the python and java folders to get more information on completing both the tasks. 
+  Read the README.md files in both the python and java folders to get more information on completing both the tasks. 
