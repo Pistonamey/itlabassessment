@@ -1,0 +1,27 @@
+public class ListProcessor {
+    
+    public int computeSum(List<Integer> numbers) {
+        // Implement this method to compute the sum of all the integers in the list.
+    }
+    
+    public int computeProduct(List<Integer> numbers) {
+        // Implement this method to compute the product of all the integers in the list.
+    }
+    
+    public int findMin(List<Integer> numbers) {
+        // Implement this method to find the minimum integer in the list.
+    }
+    
+    public int findMax(List<Integer> numbers) {
+        // Implement this method to find the maximum integer in the list.
+    }
+    
+    public List<Integer> sortList(List<Integer> numbers) {
+        // Implement this method to sort the list in ascending order.
+    }
+    
+    public List<Integer> removeDuplicates(List<Integer> numbers) {
+        // Implement this method to remove all the duplicate integers in the list.
+    }
+    
+}
