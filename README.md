@@ -5,9 +5,9 @@
 
  * This assessment is designed to evaluate your Python, Flask and Java programming skills.
 
- * There are 2 tasks in this assessment. All the files related to first task are in the 'python' 
-
- * folder and all the files related to the second task are in the 'java' folder.
+ * There are 2 tasks in this assessment. 
+ 
+ * All the files related to first task are in the 'python' folder and all the files related to the second task are in the 'java' folder.
 
  * You are expected to complete this assessment on your own, without any external help.
 
