@@ -43,6 +43,6 @@
 
 * ## Do not copy and paste the data from the courses.py file and students.py file to your app.py file. Use the conventions available in python and flask to import the data. 0 points will be given if the data is copy and pasted.
 
-* After you have successfully added the above the functionality, please go ahead and add beautiful css styling to the pages. But remember that the first priority is given to the functionality. CSS is the last priority.
+* After you have successfully added the above functionality, please go ahead and add beautiful css styling to the pages. But remember that the first priority is given to the functionality. CSS is the last priority.
 * Happy coding.
 
