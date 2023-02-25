@@ -41,6 +41,6 @@
 
 # Very Imporant instruction:
 
-## Do not copy and paste the data from the courses.py file and students.py file to your app.py file or any other file. Use the conventions available in python and flask to import the data. 0 points will be given if the data is copy and pasted.
+## Do not copy and paste the data from the courses.py file and students.py file to your app.py file. Use the conventions available in python and flask to import the data. 0 points will be given if the data is copy and pasted.
 
 
