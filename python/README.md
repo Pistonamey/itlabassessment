@@ -24,4 +24,4 @@
 * In your 'python' folder you are given 3 python files. 'app.py', 'courses.py', 'students.py'.
 * app.py is the main flask application.
 * courses.py consists of a dictionary (hash-map) that is in the format "term"->"course list". "course list" is a list of all the courses that are available for a particular "term".
-* students.py consists of a dictionary (hash-map) that is in the format "id" -> {"Name"->Name of the student,"Term"->Term that the student is enrolled for,"Courses"->Courses that the student is taking.}
+* students.py consists of a dictionary (hash-map) that is in the format "id" -> {"Name"->Name of the student,"Term"->Term that the student is enrolled for,"Courses"->Courses that the student is taking}. "id" is the student-id.
