@@ -1,7 +1,7 @@
 # itlabassessment
-Python and Java Assessment for new research assistants.
+## Python and Java Assessment for new research assistants.
 
-Instructions:
+### Instructions:
 
   This assessment is designed to evaluate your Python, Flask and Java programming skills.
 
