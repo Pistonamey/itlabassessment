@@ -1,4 +1,4 @@
-# itlabassessment
+# IT Lab Assessment
 ## Python and Java Assessment for new research assistants.
 
 ### Instructions:
