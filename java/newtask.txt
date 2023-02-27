@@ -1,0 +1,1 @@
+Your task is to add a function called getRange to the class ListProcessor. This function should basically get the range of the list of numbers. Range is defined as the difference between the maximum value and the minimum of the list of numbers.
