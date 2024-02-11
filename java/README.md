@@ -1,4 +1,4 @@
-# Java Task
+# Java Tasks
 
 ## Instructions
 
